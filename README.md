@@ -1,3 +1,17 @@
+Este repositório é dedicado a um curso prático de Next.js e ao uso do Firebase.
+
+O Next.js foi explorado em profundidade, configurando estrutura de projeto, rotas, navegação entre páginas, e integração com APIs. Foi estudado estratégias de renderização como SSR (Server Side Rendering) e SSG (Static Site Generation), resolvendo problemas comuns ao longo do caminho.
+
+O projeto inclue desde aplicações básicas até FullStack, combinando frontend com backend usando API REST e manipulação de arquivos JSON. Foi utilizado também a integração Tailwind CSS e TypeScript para melhorar a experiência de desenvolvimento e o desempenho das aplicações.
+Além disso, foi realizada a integração com Firebase, uma plataforma poderosa que facilita o desenvolvimento de aplicativos com autenticação, banco de dados em tempo real, e hospedagem. Aprender Firebase é essencial para desenvolver aplicações modernas e escaláveis com menos configuração de infraestrutura.
+
+Tópicos Abordados:
+Fundamentos do React.js e seus conceitos essenciais.
+Exploração detalhada do Next.js: estrutura de projetos, rotas dinâmicas, e otimizações de renderização.
+Desenvolvimento de projetos práticos com integração de frontend e backend.
+Deploy na nuvem e configuração de temas responsivos (dark e light mode), login, autenticação, e proteção de rotas.
+Integração com Firebase para autenticação, banco de dados em tempo real, e hospedagem.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -33,3 +47,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # admin-template
+![image](https://github.com/user-attachments/assets/c05f6aa7-d716-490d-aebb-3514b8fe9b58)
+Após a atenticação, podendo usar o acesso ao Google ou Usuário e senha :
+![image](https://github.com/user-attachments/assets/debc7c4e-5f87-4178-b14c-3ba0b685a3d0)
